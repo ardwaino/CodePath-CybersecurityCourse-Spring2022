@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **12** hours spent in total
+Time spent: **15** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -55,9 +55,6 @@ Time spent: **12** hours spent in total
   - [x] Affected source code:
     - [Link 4](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 
-
-
-
 ## Assets
 
 List any additional assets, such as scripts or files
@@ -71,11 +68,12 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Describe any challenges encountered while doing the work:
+N/A
 
 ## License
 
-    Copyright [2018] [Shirong Zheng]
+    Copyright [2022] [Shreyass Prem Sankar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
